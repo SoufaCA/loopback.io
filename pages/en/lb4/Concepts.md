@@ -13,6 +13,7 @@ Read the following articles to understand some important LoopBack concepts:
 - [Controllers](Controllers)
 - [Context](Context)
 - [Dependency injection](Dependency-injection.html)
+- [Decorators](Decorators.html)
 - [Repositories](Repositories.html)
 
 {% include content/tbd.html %}
